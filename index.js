@@ -9,7 +9,7 @@ function mkdirSync(directory) {
   paths.forEach((_, index, dir) => {
     index += 1;
     const path = dir.slice(0, index).join('/');
-
+ 
     !fs.existsSync(path) ? fs.mkdirSync(path) : null;
   });
 }

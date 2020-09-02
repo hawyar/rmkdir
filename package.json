@@ -1,0 +1,19 @@
+{
+  "name": "spicymkdir",
+  "version": "1.0.0",
+  "description": "Recursive mkdir",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hawyar/spicy-mkdir.git"
+  },
+  "author": "hawyar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hawyar/spicy-mkdir/issues"
+  },
+  "homepage": "https://github.com/hawyar/spicy-mkdir#readme"
+}

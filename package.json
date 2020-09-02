@@ -1,7 +1,7 @@
 {
   "name": "spicymkdir",
   "version": "1.0.0",
-  "description": "Recursive mkdir",
+  "description": "Spicy mkdir",
   "main": "index.js",
   "scripts": {
     "start": "node index"
